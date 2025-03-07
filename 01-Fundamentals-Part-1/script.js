@@ -24,3 +24,5 @@ let children;
 // Null
 // Symbol
 // BigInt
+
+console.log(typeof 23);
