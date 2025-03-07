@@ -26,3 +26,9 @@ let children;
 // BigInt
 
 console.log(typeof 23);
+
+// let , var , const
+// let is a var that changes later
+age = 33;
+const city = "Skikda";
+// var is the old way to declare variables
