@@ -99,4 +99,19 @@ else {
     console.log("Not Old enough 🛑");
 }
 
+// Type Conversion
+const inputYear = "1992";
+console.log(Number(inputYear));
+console.log(Number(inputYear) + 18);
+
+console.log(Number("Kevin"));
+console.log(String(32));
+
+// Logical Operations
+const hasDriverLincense = true;
+const hasGoodVision = true;
+
+console.log(hasDriverLincense && hasGoodVision);
+console.log(hasDriverLincense || hasGoodVision);
+console.log(!hasDriverLincense);
 
