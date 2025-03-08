@@ -82,4 +82,21 @@ else {
     console.log("John has heigher IBM than John");
 }
 
+const job = "Software Devoloper";
+// strings
+const myJob = "I'm a " + job;
+console.log(myJob);
+console.log('- ${myJob} \n');
+
+// Taking Decisions using if
+const personAge = 18;
+const isOldEnough = personAge >= 18;
+
+if (isOldEnough) {
+    console.log("Can Pass the driver License 🚗");
+}
+else {
+    console.log("Not Old enough 🛑");
+}
+
 
